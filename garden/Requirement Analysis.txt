@@ -1,0 +1,13 @@
+Requirement Analysis
+
+
+1.There are 2 entities: Garden and Plant.
+Garden has id, name and size.
+Plant has id, name, type and plantDate.
+
+2.Draw a ER diagram for these entities
+3.Develop it by using Spring Boot or Gradle.
+4.Use by MySQL database
+5.Implement each entity with a repository and service layer respectively.
+6. All have CRUD operations , and then display data by sorting name or plantDate
+
